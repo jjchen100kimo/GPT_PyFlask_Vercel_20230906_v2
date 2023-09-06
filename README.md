@@ -1,2 +1,2 @@
-# GPT_PyFlask_Vercel_20230906_v2
-GPT PyFlask QnA Web
+# chat-gpt-starter
+This is a Python Flask starter pack for a ChatGPT project that uses OpenAI API to create a ChatGPT chatbox.
